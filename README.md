@@ -1,7 +1,6 @@
 # COVID-19-Image-Classification using CNN
 
 ![image](https://user-images.githubusercontent.com/75978103/178566715-97ce103c-901d-40d8-b706-88dca0e7a966.png)
-![image](https://user-images.githubusercontent.com/75978103/178566715-97ce103c-901d-40d8-b706-88dca0e7a966.png)
 
 
 About Data: The training dataset contains X-ray and CT scan images of patients with positive Corona test and negative Corona test.
